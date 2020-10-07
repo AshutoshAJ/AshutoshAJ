@@ -5,7 +5,7 @@
 ## I'm a serious cinephile; basketball & automobile lover.  
 
 Some interesting stuffs:  
-&&
+
 - 🔭 Working at Wipro Technologies.
 - 🌱 Learning J2EE, Node.js.
 - 💬 I would love to discuss about Tech & Basketball.  
