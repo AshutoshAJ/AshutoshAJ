@@ -8,8 +8,9 @@ Some interesting stuffs:
 
 - 🔭 Working at Wipro Technologies.
 - 🌱 Learning J2EE, Node.js and Guitar<img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>.
-- 💬 I would love to discuss about Tech & Basketball.  
+- 💬 I would love to discuss Tech & Basketball.  
 - ⚡ A college level Basketball player! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/1200px-Basketball_Clipart.svg.png" height="30px" width="30px"/>  
+- ⚡ Always open to collaborate with Projects. Also happy to help you in building your project.
 
 # Get in touch 
 <a href="https://www.linkedin.com/in/ajashutosh"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
