@@ -7,8 +7,8 @@
 Some interesting stuffs:  
 &&
 - 🔭 Working at Wipro Technologies.
-- 🌱 Learning J2EE.
-- 💬 I would love to discuss about Android & NBA.  
+- 🌱 Learning J2EE, Node.js.
+- 💬 I would love to discuss about Tech & Basketball.  
 - ⚡ Fun facts:  
 I am a college level Basketball player! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/1200px-Basketball_Clipart.svg.png" height="30px" width="30px"/>  
 & a Guitar Rookie! <img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>
