@@ -24,4 +24,4 @@ I am a college level Basketball player! <img src="https://upload.wikimedia.org/w
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&layout=compact&count_private=true)
 
 # Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
