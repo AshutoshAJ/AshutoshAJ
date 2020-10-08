@@ -6,10 +6,11 @@
 
 Some interesting stuffs:  
 
-- 🔭 Working at Wipro Technologies.
-- 🌱 Learning J2EE, Node.js and Guitar<img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>.
+- 💻 Working at Wipro Technologies.
+- 🖥️ I love developing Apps and Websites.
+- 📗 Learning J2EE, Node.js and Guitar<img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>.
 - 💬 I would love to discuss Tech & Basketball.  
-- ⚡ A college level Basketball player! <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Basketball_Clipart.svg/1200px-Basketball_Clipart.svg.png" height="30px" width="30px"/>  
+- 🏀 A college level Basketball player!
 - ⚡ Always open to collaborate with Projects. Also happy to help you in building your project.
 
 # Get in touch 
