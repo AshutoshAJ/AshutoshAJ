@@ -13,7 +13,7 @@
 - ⚡ Always open to collaborate with Projects.
 
 ## Download Resume
-<a href="https://github.com/AshutoshAJ/resume/blob/main/Ashutosh%20Resume.pdf" download="download">Download</a>
+<a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume.pdf">Download</a>
 
 # Get in touch 
 <a href="https://www.linkedin.com/in/ajashutosh"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
