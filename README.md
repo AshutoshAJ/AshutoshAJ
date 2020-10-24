@@ -2,16 +2,18 @@
 ![](https://komarev.com/ghpvc/?username=AshutoshAJ)
 # Hi there! I'm Ashutosh. 
 
-## I'm a serious cinephile; basketball & automobile lover.  
-
-Some interesting stuffs:  
+### Some interesting stuffs:  
 
 - 💻 Working at Wipro Technologies.
 - 🖥️ I love developing Apps and Websites.
 - 📗 Learning J2EE, Node.js and Guitar<img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>.
-- 💬 I would love to discuss Tech & Basketball.  
+- 📧 I would love to discuss Tech & Basketball.  
 - 🏀 A college level Basketball player!
-- ⚡ Always open to collaborate with Projects. Also happy to help you in building your project.
+- 🎥 Serious cinephile; basketball & automobile lover.  
+- ⚡ Always open to collaborate with Projects.
+
+## Download Resume
+<a href="https://github.com/AshutoshAJ/resume/blob/main/Ashutosh%20Resume.pdf">Download</a>
 
 # Get in touch 
 <a href="https://www.linkedin.com/in/ajashutosh"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
