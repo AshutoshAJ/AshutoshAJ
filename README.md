@@ -6,9 +6,8 @@
 
 - 💻 Working at Wipro Technologies.
 - 🖥️ I love developing Apps and Websites.
-- 📗 Learning J2EE, Node.js and Guitar<img src="https://www.clipartkey.com/mpngs/m/171-1716467_acoustic-guitar-svg-png-icon-free-download-acoustic.png" height="30px" width="30px"/>.
+- 📗 Learning J2EE, Node.js and Guitar.
 - 📧 I would love to discuss Tech & Basketball.  
-- 🏀 A college level Basketball player!
 - 🎥 Serious cinephile; basketball & automobile lover.  
 - ⚡ Always open to collaborate with Projects.
 
