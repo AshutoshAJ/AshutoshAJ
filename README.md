@@ -6,7 +6,7 @@
 
 - 💻 Working at Wipro Technologies.
 - 🖥️ I love developing Apps and Websites.
-- 📗 Learning J2EE, Node.js and Guitar.
+- 📗 Learning J2EE, Node.js.
 - 📧 I would love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
 - ⚡ Always open to collaborate with Projects.
