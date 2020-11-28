@@ -9,7 +9,7 @@
 - 📗 Learning J2EE, Node.js.
 - 📧 I would love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
-- ⚡ Always open to collaborate with Projects.
+- ⚡ Always open to collaborate.
 
 ## Download Resume
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume.pdf">Download</a>
