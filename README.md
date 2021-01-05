@@ -14,7 +14,7 @@
 ## Download Resume
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume.pdf">Download</a>
 
-# Get in touch 
+# I'm there on
 <a href="https://www.linkedin.com/in/ajashutosh"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://twitter.com/theAshutoshAJ"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="40px" width="40px"/></a>  
 
