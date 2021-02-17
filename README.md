@@ -4,7 +4,7 @@
 
 ### Some interesting stuffs:  
 
-- 💻 Working at Wipro Technologies.
+- 💻 Working at Wipro Limited.
 - 🖥️ I love developing Apps and Websites.
 - 📗 Learning J2EE, Javascript.
 - 📧 I would love to discuss Tech & Basketball.  
