@@ -15,8 +15,8 @@
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume.pdf">Download</a>
 
 # I'm there on
-<a href="https://www.linkedin.com/in/theashutoshaj/"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/theAshutoshAJ"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="40px" width="40px"/></a>  
+<a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/theAshutoshAJ" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="40px" width="40px"/></a>  
 
 
 # Languages and Tools:  
