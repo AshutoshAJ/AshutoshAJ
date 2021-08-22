@@ -2,7 +2,6 @@
 ![](https://komarev.com/ghpvc/?username=AshutoshAJ)
 # Hi there! I'm Ashutosh👋 
 
-### Some interesting stuffs:  
 
 - 💻 Working at Wipro Limited.
 - 🖥️ I love developing Apps and Websites.
@@ -11,7 +10,7 @@
 - 🎥 Serious cinephile; basketball & automobile lover.  
 - ⚡ Always open to collaborate.
 
-## Download Resume
+# Download Resume
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20%20Resume%20Apr%2021.png">Download</a>
 
 # I'm there on
