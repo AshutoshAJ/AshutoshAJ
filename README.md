@@ -28,5 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
 
 # Featured Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/AshutoshAJ/Tic-Tac-Toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/PUBG_Website)
