@@ -10,7 +10,7 @@
 - ⚡ Always open to collaborate.
 
 # Download Resume
-<a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20%20Resume%20Apr%2021.png">Download</a>
+<a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Jena%20Android%20Resume.pdf">Download</a>
 
 # I'm there on
 <a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://www.flaticon.com/svg/static/icons/svg/174/174857.svg" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
