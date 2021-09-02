@@ -28,4 +28,5 @@
 
 # Featured Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=Tic-Tac-Toe&theme=tokyonight)](https://github.com/AshutoshAJ/Tic-Tac-Toe)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=JumbledWords&theme=tokyonight)](https://github.com/AshutoshAJ/JumbledWords)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/PUBG_Website)
