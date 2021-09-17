@@ -3,7 +3,7 @@
 # Hi there! I'm Ashutosh👋 
 
 
-- 💻 Software Engineer at Wipro Limited.
+- 💻 Software Engineer at Wipro.
 - 🖥️ I love developing Apps and Websites.
 - 📧 I would love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
