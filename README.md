@@ -3,7 +3,7 @@
 # Hi there! I'm Ashutosh👋 
 
 
-- 💻 Software Engineer at Wipro.
+- 💻 Software Engineer at Wipro
 - 🖥️ Love developing Apps and Websites.
 - 📧 Love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
@@ -23,7 +23,7 @@
 # Streak
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=AshutoshAJ&theme=tokyonight&currStreakNum=23D7DD&dates=2EDD02&ring=23D7DD&currStreakLabel=FF00F1&sideLabels=FF00F1&fire=23D7DD&sideNums=23D7DD)](https://github.com/AshutoshAJ)
 
-# GitHub Stats
+# Stats
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
 
 # Top Languages
