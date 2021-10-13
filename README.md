@@ -26,7 +26,7 @@
 # Stats
 ![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
 
-# Top Languages
+# Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
 
 # Featured Repositories
