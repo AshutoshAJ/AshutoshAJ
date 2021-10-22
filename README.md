@@ -34,3 +34,6 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/PUBG_Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=AshutoshAJ&theme=tokyonight)](https://github.com/AshutoshAJ/AshutoshAJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=LandingPage&theme=tokyonight)](https://github.com/AshutoshAJ/LandingPage)
+
+# Play Store Publications
+<a href="https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe" target="_blank"><img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Logo.png" height="80px" width="80px"/></a>&nbsp;&nbsp;&nbsp;
