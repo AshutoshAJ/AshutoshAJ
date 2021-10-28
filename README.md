@@ -7,7 +7,6 @@
 - 🖥️ Love developing Apps and Websites.
 - 📧 Love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
-- ⚡ Always open to collaborate.
 
 # Download Resume
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Jena%20Resume.pdf">Download</a>
