@@ -4,7 +4,7 @@
 
 
 - 💻 Software Engineer at Wipro.
-- 🖥️ Love developing Apps and Websites.
+- 🖥️ Love designing & developing Apps.
 - 📧 Love to discuss Tech & Basketball.  
 - 🎥 Serious cinephile; basketball & automobile lover.  
 
