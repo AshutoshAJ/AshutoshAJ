@@ -9,7 +9,7 @@
 - 🎥 Serious cinephile; basketball & automobile lover.  
 
 # Download Resume
-<a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Jena%20Resume.pdf">Download</a>
+<a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume%20Public.pdf">Download</a>
 
 # I'm there on
 <a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
