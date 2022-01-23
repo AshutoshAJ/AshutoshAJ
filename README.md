@@ -3,10 +3,12 @@
 # Hi there! I'm Ashutosh👋 
 
 
-- 💻 Software Engineer at Wipro.
-- 🖥️ Love designing & developing Apps.
-- 📧 Love to discuss Tech & Basketball.  
-- 🎥 Serious cinephile; basketball & automobile lover.  
+💻 Software Engineer at Wipro.  
+🖥️ Designing & developing Apps.  
+📧 Open to discuss Tech || Basketball || Cinema.  
+🎥 Serious cinephile || Learning Movie Analysis & Cinematic Composition.  
+❤️ Basketball & automobile lover.  
+
 
 # Download Resume
 <a href="https://github.com/AshutoshAJ/resume/raw/main/Ashutosh%20Resume%20Public.pdf">Download</a>
