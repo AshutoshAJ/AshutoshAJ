@@ -3,7 +3,7 @@
 # Hi there! I'm Ashutosh👋 
 
 
-💻 Software Engineer at Wipro.  
+💻 Android Engineer at Samsung R&D India.  
 🖥️ Designing & developing Apps.  
 📧 Open to discuss Tech || Basketball || Cinema.  
 🎥 Serious cinephile || Learning Movie Analysis & Cinematic Composition.  
