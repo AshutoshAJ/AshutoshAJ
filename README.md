@@ -11,7 +11,7 @@
 
 
 # Download Resume
-<a href="https://github.com/AshutoshAJ/ResourcesForReadme/blob/main/main_nahi_dikhaunga.gif">Download</a>
+<a href="https://raw.githubusercontent.com/AshutoshAJ/ProjectScreenshots/master/Resources/main_nahi_dikhaunga.gif">Download</a>
 
 # I'm there on
 <a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
