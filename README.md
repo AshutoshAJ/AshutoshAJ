@@ -4,11 +4,11 @@
 
 
 💻 Mobile Engineer at FinBox.  
-📱 Ex Samsung, Charles Schwab.  
-🖥️ Designing & developing Apps.  
+🖥️ Ex Samsung, Charles Schwab.  
+🖥️ Solving modern world problems via technology.  
 📧 Open to discuss Tech || Basketball || Cinema.  
 🎥 Serious cinephile || Learning Movie Analysis & Cinematic Composition.  
-❤️ Basketball & automobile lover.  
+❤️ Basketball & Automobile lover.  
 
 
 # Download Resume
