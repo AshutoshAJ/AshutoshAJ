@@ -3,7 +3,8 @@
 # Hi there! I'm Ashutosh👋 
 
 
-💻 Android Engineer at Samsung R&D India.  
+💻 Mobile Engineer at FinBox.  
+📱 Ex Samsung, Charles Schwab.
 🖥️ Designing & developing Apps.  
 📧 Open to discuss Tech || Basketball || Cinema.  
 🎥 Serious cinephile || Learning Movie Analysis & Cinematic Composition.  
