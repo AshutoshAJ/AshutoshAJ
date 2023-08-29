@@ -16,7 +16,7 @@
 
 # I'm there on
 <a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/theAshutoshAJ" target="_blank"><img src="https://1000logos.net/wp-content/uploads/2017/06/Twitter-Logo.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
+<a href="https://twitter.com/theAshutoshAJ" target="_blank"><img src="https://github.com/AshutoshAJ/ResourcesForReadme/blob/main/twitter_logo.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
 <a href="https://play.google.com/store/apps/developer?id=Just+Updated" target="_blank"><img src="https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg" height="40px" width="50px"/></a>  
 
 # Languages and Tools  
