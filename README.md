@@ -3,7 +3,7 @@
 # Hi there! I'm Ashutosh👋 
 
 
-💻 Mobile Engineer at FinBox.  
+💻 Mobile & Backend Engineering at FinBox.  
 🖥️ Ex Samsung, Charles Schwab.  
 🖥️ Solving modern world problems using technology.  
 📧 Open to discuss Tech || Basketball || Cinema.  
