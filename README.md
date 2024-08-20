@@ -30,7 +30,7 @@
 [![Streak](http://github-readme-streak-stats.herokuapp.com?user=AshutoshAJ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=D278FF&dates=23D7DD&currStreakNum=23D7DD&ring=23D7DD&currStreakLabel=FF00F1&fire=23D7DD&sideNums=23D7DD)](https://github.com/AshutoshAJ)
 
 # Stats
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&layout=compact&count_private=true&include_all_commits=true)
+![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
