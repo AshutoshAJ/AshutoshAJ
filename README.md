@@ -3,8 +3,8 @@
 # Hi there! I'm Ashutosh👋 
 
 
-💻 Mobile & Backend Engineering || SSE at FinBox.  
-🖥️ Ex Samsung, Charles Schwab.  
+💻 Tech Lead @ [Novaex.ai](https://novaex.ai) .  
+🖥️ Ex Samsung, Charles Schwab, FinBox.  
 🖥️ Solving modern world problems using technology.  
 📧 Open to discuss Tech || Basketball || Cinema.  
 🎥 Serious cinephile.  
