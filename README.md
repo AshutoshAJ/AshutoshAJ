@@ -1,23 +1,30 @@
+![Profile views](https://komarev.com/ghpvc/?username=AshutoshAJ&style=flat-square)
 
-![](https://komarev.com/ghpvc/?username=AshutoshAJ)
-# Hi there! I'm Ashutosh👋 
+# Hi there! I'm Ashutosh 👋
 
+I am a tech lead who enjoys building reliable product systems, clean mobile experiences, and the infrastructure that keeps them quietly humming.
 
-💻 Tech Lead @ [Novaex.ai](https://novaex.ai) .  
-🖥️ Ex Samsung, Charles Schwab, FinBox.  
-🖥️ Solving modern world problems using technology.  
-📧 Open to discuss Tech || Basketball || Cinema.  
-🎥 Serious cinephile.  
-❤️ Basketball & Automobile lover.  
+- Tech Lead @ [NovaEx.ai](https://novaex.ai)
+- Ex Samsung, Charles Schwab, and FinBox
+- Building across fintech, market data, mobile apps, backend systems, infra, and AI-assisted engineering
+- Always up for conversations about technology, basketball, cinema, and automobiles
 
+## Current Focus
 
-# Download Resume
+- Leading product and platform engineering at NovaEx
+- Building market-data, alerting, pricing, and position-management workflows
+- Improving developer velocity with pragmatic AI tooling and automation
+- Designing systems that survive real users, real traffic, and real edge cases
+
+## Download Resume
+
 <a href="https://raw.githubusercontent.com/AshutoshAJ/ProjectScreenshots/master/Resources/main_nahi_dikhaunga.gif">Download</a>
 
-# I'm there on
-<a href="https://www.linkedin.com/in/theashutoshaj/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://twitter.com/theAshutoshAJ" target="_blank"><img src="https://github.com/AshutoshAJ/ResourcesForReadme/blob/main/twitter_logo.png" height="40px" width="40px"/></a>&nbsp;&nbsp;&nbsp;
-<a href="https://play.google.com/store/apps/developer?id=Just+Updated" target="_blank"><img src="https://i.pinimg.com/originals/1a/49/22/1a49226d155846acb790eeb919f63c8e.jpg" height="40px" width="50px"/></a>  
+## Find Me On
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theashutoshaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theashutoshaj/)
+[![X](https://img.shields.io/badge/X-theAshutoshAJ-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theAshutoshAJ)
+[![Play Store](https://img.shields.io/badge/Google_Play-Just_Updated-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Updated)
 
 # Languages and Tools  
 <img src="https://www.thegoandroid.com/wp-content/uploads/2021/05/Untitled-10.png" height="40px" width="40px"/> <img src="https://github.com/AshutoshAJ/ResourcesForReadme/blob/main/java.png" height="40px" width="40px"/> <img src="https://cdn.freebiesupply.com/logos/large/2x/kotlin-1-logo-png-transparent.png" height="40px" width="40px"/> <img src="https://cdn-icons-png.flaticon.com/512/5968/5968371.png" height="40px" width="40px"/>  <img src="https://w7.pngwing.com/pngs/505/718/png-transparent-xcode-macos-bigsur-icon-thumbnail.png" height="40px" width="40px"/>  <img src="https://partner.zoom.us/wp-content/uploads/2022/12/2022_Zoom-AWS_Lockup_RGB-1-e1672857797889-1024x760.png" height="40px" width="55px"/> 
