@@ -63,20 +63,28 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 ![Moon Reader](https://img.shields.io/badge/Moon_Reader-3B3B3B?style=flat-square&logo=readme&logoColor=white)
 ![OPPO](https://img.shields.io/badge/OPPO-1D9A5F?style=flat-square&logo=oppo&logoColor=white)
 
-# Streak
-[![Streak](http://github-readme-streak-stats.herokuapp.com?user=AshutoshAJ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=D278FF&dates=23D7DD&currStreakNum=23D7DD&ring=23D7DD&currStreakLabel=FF00F1&fire=23D7DD&sideNums=23D7DD)](https://github.com/AshutoshAJ)
+## GitHub Activity
 
-# Stats
-![Ashutosh's github stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+[![Streak](https://streak-stats.demolab.com?user=AshutoshAJ&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&sideLabels=D278FF&dates=23D7DD&currStreakNum=23D7DD&ring=23D7DD&currStreakLabel=FF00F1&fire=23D7DD&sideNums=23D7DD)](https://git.io/streak-stats)
 
-# Languages
+![Ashutosh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AshutoshAJ&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
 
-# Featured Repositories
+## Selected Work
+
+- [JumbledWords](https://github.com/AshutoshAJ/JumbledWords) - word puzzle game experiments and app polish.
+- [PUBG Website](https://github.com/AshutoshAJ/PUBG_Website) - web UI practice around a gaming theme.
+- [LandingPage](https://github.com/AshutoshAJ/LandingPage) - landing page layout and frontend fundamentals.
+- [AshutoshAJ](https://github.com/AshutoshAJ/AshutoshAJ) - this profile README, kept fresh with experiments and polish.
+
+## Featured Repositories
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=JumbledWords&theme=tokyonight)](https://github.com/AshutoshAJ/JumbledWords)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/PUBG_Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=AshutoshAJ&theme=tokyonight)](https://github.com/AshutoshAJ/AshutoshAJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=LandingPage&theme=tokyonight)](https://github.com/AshutoshAJ/LandingPage)
 
-# Play Store Publications
+## Play Store Publications
+
 <a href="https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe" target="_blank"><img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Logo.png" height="80px" width="80px"/></a>&nbsp;&nbsp;&nbsp;
