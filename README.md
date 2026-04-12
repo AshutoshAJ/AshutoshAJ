@@ -60,7 +60,7 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
 ![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=flat-square&logo=musicbrainz&logoColor=white)
-![Moon Reader](https://img.shields.io/badge/Moon_Reader-3B3B3B?style=flat-square&logo=readme&logoColor=white)
+![Moon Reader](https://img.shields.io/badge/Moon_Reader-3B3B3B?style=flat-square)
 ![OPPO](https://img.shields.io/badge/OPPO-1D9A5F?style=flat-square&logo=oppo&logoColor=white)
 
 ## GitHub Activity
@@ -87,4 +87,4 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 
 ## Play Store Publications
 
-<a href="https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe" target="_blank"><img src="https://github.com/AshutoshAJ/ProjectScreenshots/blob/master/Tic%20Tac%20Toe/Tic%20Tac%20Toe%20Logo.png" height="80px" width="80px"/></a>&nbsp;&nbsp;&nbsp;
+[![Tic Tac Toe](https://img.shields.io/badge/Tic_Tac_Toe-Play_Store-34A853?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.crazzzydev.tictactoe)
