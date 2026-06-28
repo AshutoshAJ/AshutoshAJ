@@ -16,6 +16,12 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 - Improving developer velocity with pragmatic AI tooling and automation
 - Designing systems that survive real users, real traffic, and real edge cases
 
+## AI-Assisted Engineering
+
+- 5B+ tokens explored across Claude, Codex, Antigravity, and adjacent engineering workflows
+- Using AI systems as design partners for architecture, debugging, refactoring, reviews, and documentation
+- Building practical agentic workflows that connect code, infrastructure, product context, and operator judgment
+
 ## Download Resume
 
 <a href="https://raw.githubusercontent.com/AshutoshAJ/ProjectScreenshots/master/Resources/main_nahi_dikhaunga.gif">Download</a>
