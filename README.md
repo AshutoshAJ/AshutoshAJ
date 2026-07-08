@@ -97,9 +97,16 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 ## Productivity Boosters
 
 ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)
+![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=flat-square&logo=spotify&logoColor=white)
 ![JioSaavn](https://img.shields.io/badge/JioSaavn-2BC5B4?style=flat-square&logo=musicbrainz&logoColor=white)
 ![Moon Reader](https://img.shields.io/badge/Moon_Reader-3B3B3B?style=flat-square)
 ![OPPO](https://img.shields.io/badge/OPPO-1D9A5F?style=flat-square&logo=oppo&logoColor=white)
+
+## Favorite Tools
+
+![Arc](https://img.shields.io/badge/Arc_Browser-FCBFBD?style=flat-square&logo=arc&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-111111?style=flat-square&logo=openai&logoColor=white)
 
 ## GitHub Activity
 
