@@ -16,11 +16,43 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 - Improving developer velocity with pragmatic AI tooling and automation
 - Designing systems that survive real users, real traffic, and real edge cases
 
+## Builder Snapshot
+
+- Tech lead building across fintech, market data, alerting, infra, mobile, and AI-assisted engineering
+- Experience spanning product leadership, backend systems, mobile apps, cloud infrastructure, and platform workflows
+- Hands-on with real-time systems, internal tools, automation, and developer productivity loops
+
 ## AI-Assisted Engineering
 
 - 5B+ tokens explored across Claude, Codex, Antigravity, and adjacent engineering workflows
 - Using AI systems as design partners for architecture, debugging, refactoring, reviews, and documentation
 - Building practical agentic workflows that connect code, infrastructure, product context, and operator judgment
+
+## Systems I Like Building
+
+- Market data and pricing workflows
+- Alerting and monitoring systems
+- Position management and reconciliation products
+- Mobile apps with clean UX
+- Internal tools that make engineers faster
+- AI-assisted coding, review, and debugging workflows
+
+## Operating Style
+
+- Product-minded engineering with strong ownership
+- Fast iteration without losing the thread on quality
+- Practical architecture over ceremony
+- Debugging from first principles
+- Tooling that reduces repeated human effort
+
+## Currently Exploring
+
+- Agentic engineering workflows
+- AI code review systems
+- Multi-agent development loops
+- Market-data reliability
+- Observability and alerting
+- Infra automation
 
 ## Download Resume
 
@@ -77,12 +109,22 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AshutoshAJ&layout=compact&theme=tokyonight)](https://github.com/AshutoshAJ/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshutoshAJ&theme=tokyo-night)](https://github.com/AshutoshAJ)
+
 ## Selected Work
 
-- [JumbledWords](https://github.com/AshutoshAJ/JumbledWords) - word puzzle game experiments and app polish.
-- [PUBG Website](https://github.com/AshutoshAJ/PUBG_Website) - web UI practice around a gaming theme.
-- [LandingPage](https://github.com/AshutoshAJ/LandingPage) - landing page layout and frontend fundamentals.
-- [AshutoshAJ](https://github.com/AshutoshAJ/AshutoshAJ) - this profile README, kept fresh with experiments and polish.
+- Fintech market-data products at NovaEx
+- Pricing, alerting, and position-management workflows for real-world operators
+- Mobile apps shipped to Play Store
+- AI-assisted engineering workflows for planning, debugging, review, and documentation
+- Backend and infra systems for real-time data products
+
+## Beyond Code
+
+- Basketball follower
+- Serious cinephile
+- Automobile enthusiast
+- Always happy to talk tech, films, systems, and product ideas
 
 ## Featured Repositories
 
