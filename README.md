@@ -2,57 +2,96 @@
 
 # Hi there! I'm Ashutosh 👋
 
-I am a tech lead who enjoys building reliable product systems, clean mobile experiences, and the infrastructure that keeps them quietly humming.
+I like building systems that quietly do difficult things well. Most of my day is spent somewhere between trading platforms, backend services, infrastructure, AI tooling, and the occasional production fire.
+
+I enjoy working on problems that do not fit neatly into one box. Backend, frontend, infrastructure, release engineering, AI workflows - if solving the problem means crossing boundaries, that is usually where you will find me.
+
+## Right Now
 
 - Tech Lead @ [NovaEx.ai](https://novaex.ai)
-- Ex Samsung, Charles Schwab, and FinBox
-- Building across fintech, market data, mobile apps, backend systems, infra, and AI-assisted engineering
-- Always up for conversations about technology, basketball, cinema, and automobiles
+- Building trading and market-data products
+- Making engineers faster with practical AI workflows
+- Trying to remove one unnecessary manual step every week
 
-## Current Focus
+## Selected Work
 
-- Leading product and platform engineering at NovaEx
-- Building market-data, alerting, pricing, and position-management workflows
-- Improving developer velocity with pragmatic AI tooling and automation
-- Designing systems that survive real users, real traffic, and real edge cases
+### NovaEx
 
-## Builder Snapshot
+If it touches engineering, there is a decent chance I have been involved somewhere along the way.
 
-- Tech lead building across fintech, market data, alerting, infra, mobile, and AI-assisted engineering
-- Experience spanning product leadership, backend systems, mobile apps, cloud infrastructure, and platform workflows
-- Hands-on with real-time systems, internal tools, automation, and developer productivity loops
+- Trading platform
+- Market data
+- Pricing
+- Position management
+- Alerting
+- Internal tooling
+- Infrastructure
+- CI/CD
+- AI engineering workflows
 
-## AI-Assisted Engineering
+Some days I am designing systems.  
+Some days I am debugging production.  
+Some days I am helping someone else ship faster.
 
-- 5B+ tokens explored across Claude, Codex, Antigravity, and adjacent engineering workflows
-- Using AI systems as design partners for architecture, debugging, refactoring, reviews, and documentation
-- Building practical agentic workflows that connect code, infrastructure, product context, and operator judgment
+Usually it is all three.
 
-## Systems I Like Building
+### Side Projects
 
-- Market data and pricing workflows
-- Alerting and monitoring systems
-- Position management and reconciliation products
-- Mobile apps with clean UX
-- Internal tools that make engineers faster
-- AI-assisted coding, review, and debugging workflows
+Outside work I still build things.
 
-## Operating Style
+Android apps.  
+Small web experiments.  
+Landing pages.  
+Random tooling.  
+Whatever seems fun that weekend.
 
-- Product-minded engineering with strong ownership
-- Fast iteration without losing the thread on quality
-- Practical architecture over ceremony
-- Debugging from first principles
-- Tooling that reduces repeated human effort
+This GitHub profile is another one of those projects.
 
-## Currently Exploring
+## AI Workflow
+
+- Claude, Codex, Antigravity, and too many terminal windows
+- 5B+ tokens explored across AI-assisted engineering workflows
+- Most useful for debugging, architecture, code reviews, and understanding unfamiliar repos
+- Building repeatable workflows instead of one-off prompts
+
+AI is not replacing engineering.
+
+It is replacing repetitive engineering.
+
+The goal is not just writing code faster. It is spending more time solving the interesting problems.
+
+## How I Work
+
+- Own the problem, not just the ticket
+- Practical over clever
+- Debug from first principles
+- Ship, measure, improve, repeat
+- Automate the boring parts
+
+## Things I Enjoy Building
+
+- Real-time market data
+- Trading platforms
+- Alerting systems
+- Internal developer tooling
+- Mobile apps
+- Developer tooling and AI workflows
+
+## Engineering Principles
+
+- Simplicity scales
+- Measure before optimizing
+- Good tooling compounds
+- Documentation is part of the product
+- Reliability beats cleverness
+
+## Currently Breaking
 
 - Agentic engineering workflows
-- AI code review systems
-- Multi-agent development loops
-- Market-data reliability
-- Observability and alerting
-- Infra automation
+- AI code review
+- Better observability
+- Infrastructure automation
+- Faster developer feedback loops
 
 ## Download Resume
 
@@ -118,39 +157,19 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=AshutoshAJ&theme=tokyo-night)](https://github.com/AshutoshAJ)
 
-## Selected Work
-
-### NovaEx Platform Work
-
-- Leading engineering across market-data, pricing, alerting, and position-management products
-- Building workflows that connect live exchange data, business rules, operator dashboards, and internal automation
-- Working across backend services, frontend product surfaces, infra, observability, and release hygiene
-
-### AI Engineering Workflows
-
-- Heavy daily use of Claude, Codex, Antigravity, and custom agent loops for planning, implementation, debugging, and review
-- Turning scattered repo context into repeatable workflows, walkthroughs, and faster engineering handoffs
-- Exploring how AI tools can help senior engineers move faster without outsourcing judgment
-
-### Mobile And Personal Builds
-
-- Shipped Android apps to Play Store, including puzzle/game experiments and utility-style apps
-- Built web experiments and landing pages to keep frontend fundamentals sharp
-- Maintained this profile as a small playground for presentation, badges, and GitHub profile polish
-
-## Beyond Code
-
-- Basketball follower
-- Serious cinephile
-- Automobile enthusiast
-- Always happy to talk tech, films, systems, and product ideas
-
 ## Featured Repositories
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=JumbledWords&theme=tokyonight)](https://github.com/AshutoshAJ/JumbledWords)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=PUBG_Website&theme=tokyonight)](https://github.com/AshutoshAJ/PUBG_Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=AshutoshAJ&theme=tokyonight)](https://github.com/AshutoshAJ/AshutoshAJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=LandingPage&theme=tokyonight)](https://github.com/AshutoshAJ/LandingPage)
+
+## Beyond Code
+
+- Basketball
+- Cinema
+- Automobiles
+- Tech, product, and systems conversations
 
 ## Play Store Publications
 
