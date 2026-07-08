@@ -113,11 +113,23 @@ I am a tech lead who enjoys building reliable product systems, clean mobile expe
 
 ## Selected Work
 
-- Fintech market-data products at NovaEx
-- Pricing, alerting, and position-management workflows for real-world operators
-- Mobile apps shipped to Play Store
-- AI-assisted engineering workflows for planning, debugging, review, and documentation
-- Backend and infra systems for real-time data products
+### NovaEx Platform Work
+
+- Leading engineering across market-data, pricing, alerting, and position-management products
+- Building workflows that connect live exchange data, business rules, operator dashboards, and internal automation
+- Working across backend services, frontend product surfaces, infra, observability, and release hygiene
+
+### AI Engineering Workflows
+
+- Heavy daily use of Claude, Codex, Antigravity, and custom agent loops for planning, implementation, debugging, and review
+- Turning scattered repo context into repeatable workflows, walkthroughs, and faster engineering handoffs
+- Exploring how AI tools can help senior engineers move faster without outsourcing judgment
+
+### Mobile And Personal Builds
+
+- Shipped Android apps to Play Store, including puzzle/game experiments and utility-style apps
+- Built web experiments and landing pages to keep frontend fundamentals sharp
+- Maintained this profile as a small playground for presentation, badges, and GitHub profile polish
 
 ## Beyond Code
 
