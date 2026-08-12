@@ -187,9 +187,11 @@ The goal is not just writing code faster. It is spending more time solving the i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=AshutoshAJ&theme=tokyonight)](https://github.com/AshutoshAJ/AshutoshAJ)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=LandingPage&theme=tokyonight)](https://github.com/AshutoshAJ/LandingPage)
 
-## Beyond Code
+## Filmmaking
 
 Beyond code, I tell stories through film. [BTF with AJ](https://www.instagram.com/btfwithaj/) is where I explore filmmaking - turning ideas, everyday moments, and visual experiments into stories worth watching.
+
+## Beyond Code
 
 - Basketball
 - Cinema
