@@ -12,6 +12,7 @@ I enjoy working on problems that do not fit neatly into one box. Backend, fronte
 - Building trading and market-data products
 - Making engineers faster with practical AI workflows
 - Trying to remove one unnecessary manual step every week
+- Sharing life beyond the terminal through [BTF with AJ](https://www.instagram.com/btfwithaj/)
 
 ## Selected Work
 
@@ -101,6 +102,7 @@ The goal is not just writing code faster. It is spending more time solving the i
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-theashutoshaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theashutoshaj/)
 [![X](https://img.shields.io/badge/X-theAshutoshAJ-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theAshutoshAJ)
+[![Instagram](https://img.shields.io/badge/Instagram-btfwithaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btfwithaj/)
 [![Play Store](https://img.shields.io/badge/Google_Play-Just_Updated-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Updated)
 
 ## Languages And Tools
@@ -186,6 +188,8 @@ The goal is not just writing code faster. It is spending more time solving the i
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AshutoshAJ&repo=LandingPage&theme=tokyonight)](https://github.com/AshutoshAJ/LandingPage)
 
 ## Beyond Code
+
+Beyond code, I tell stories through film. [BTF with AJ](https://www.instagram.com/btfwithaj/) is where I explore filmmaking - turning ideas, everyday moments, and visual experiments into stories worth watching.
 
 - Basketball
 - Cinema
