@@ -1,5 +1,8 @@
 ![Profile views](https://komarev.com/ghpvc/?username=AshutoshAJ&style=flat-square)
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-theashutoshaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theashutoshaj/) [![Instagram](https://img.shields.io/badge/Instagram-btfwithaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btfwithaj/) [![X](https://img.shields.io/badge/X-theAshutoshAJ-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theAshutoshAJ) [![Play Store](https://img.shields.io/badge/Google_Play-Just_Updated-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Updated)
+
+
 # Hi there! I'm Ashutosh 👋
 
 I like building systems that quietly do difficult things well. Most of my day is spent somewhere between trading platforms, backend services, infrastructure, AI tooling, and the occasional production fire.
@@ -96,13 +99,6 @@ The goal is not just writing code faster. It is spending more time solving the i
 ## Download Resume
 
 <a href="https://raw.githubusercontent.com/AshutoshAJ/ProjectScreenshots/master/Resources/main_nahi_dikhaunga.gif">Download</a>
-
-## Find Me On
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-theashutoshaj-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/theashutoshaj/)
-[![X](https://img.shields.io/badge/X-theAshutoshAJ-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/theAshutoshAJ)
-[![Instagram](https://img.shields.io/badge/Instagram-btfwithaj-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/btfwithaj/)
-[![Play Store](https://img.shields.io/badge/Google_Play-Just_Updated-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=Just+Updated)
 
 ## Languages And Tools
 
