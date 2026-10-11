@@ -8,11 +8,10 @@ I enjoy working on problems that do not fit neatly into one box. Backend, fronte
 
 ## Right Now
 
-- Tech Lead @ [NovaEx.ai](https://novaex.ai)
+- Tech Lead @ [NovaEx.ai](https://novaex.ai) | Sharing life beyond the terminal through [BTF with AJ](https://www.instagram.com/btfwithaj/)
 - Building trading and market-data products
 - Making engineers faster with practical AI workflows
 - Trying to remove one unnecessary manual step every week
-- Sharing life beyond the terminal through [BTF with AJ](https://www.instagram.com/btfwithaj/)
 
 ## Selected Work
 
